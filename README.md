@@ -5,6 +5,13 @@
   </a>
 </div>
 
+-----------------------------
+
+* 🌍  I'm based in Iran - shiraz
+* 🖥️  See my portfolio at [my website](http://mohamad-shiravi.ir)
+* ✉️  You can contact me at [mohamadshiravi85@gmail.com](mailto:mohamadshiravi85@gmail.com)
+* 🤝  I'm open to collaborating on React.js and Next.js project.
+
 ## 🚀 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,react,next,tailwind,redux,mui)](https://skillicons.dev)
