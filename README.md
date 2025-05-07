@@ -1,10 +1,5 @@
 
-<div>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=6000&pause=0&color=F7F7F7&repeat=true&width=800&separator=%3C&lines=Im+Mohamad+Shiravi+|+Front-End+Developer💻" alt="Typing SVG" />
-  </a>
-</div>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Im+Mohamad+Shiravi+-+Front-end+Developer)](https://git.io/typing-svg)
 -----------------------------
 
 * 🌍  I'm based in Iran - shiraz
